@@ -190,3 +190,6 @@ Firestore write → protected page. You're ready for
 | Edited `frontend/.env.local` or `backend/.env` directly | Those are generated — edits get overwritten. Change the root `.env` instead. |
 | `'next' is not recognized` / `Command "next" not found` | Run `pnpm install` from the **repo root**, not from `frontend/`. |
 | Sign-up fails silently | Check Firebase console → Authentication → Sign-in method — make sure Email/Password is enabled (Step 2). |
+
+
+test change
